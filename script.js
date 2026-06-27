@@ -37,7 +37,7 @@ projectShots.forEach((shot) => {
 
 if (window.Typed) {
   new Typed('.text', {
-    strings: ['full-stack development', 'Android development', 'secure applications'],
+    strings: ['research on Machine Learning', 'secure applications'],
     typeSpeed: 58,
     backSpeed: 36,
     backDelay: 1100,
